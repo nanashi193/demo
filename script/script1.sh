@@ -1,3 +1,3 @@
-echo "Hello guys!!"
+echo "Hello guys!"
 sleep 10
 
